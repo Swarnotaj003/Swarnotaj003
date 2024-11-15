@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at University Of Calcutta, Kolkata | BTech in Information Technology, 2022-26
+Student at University Of Calcutta, Kolkata | BTech in Information Technology, 2022-26<br>
 Aspiring Software Engineer | Seeking entry-level opportunity
 
 
