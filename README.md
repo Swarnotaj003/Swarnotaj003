@@ -2,9 +2,11 @@
 Student at University Of Calcutta, Kolkata | BTech in Information Technology, 2022-26<br>
 Aspiring Software Engineer | Seeking entry-level opportunity
 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnotaj-kundu-1661a7202) 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnotaj-kundu-1661a7202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+# 👨🏻‍💻 Coding profiles:
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)]([https://leetcode.com/your-leetcode-username/](https://leetcode.com/u/SwarnotajKundu/)) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/swarnotaj003)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) 
